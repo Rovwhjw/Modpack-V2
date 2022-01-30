@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GREG IDLE"
+		},
+		{
+			"offsets": [
+				37,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GREG LEFT"
+		},
+		{
+			"offsets": [
+				72,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GREG DOWN"
+		},
+		{
+			"offsets": [
+				34,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GREG UP"
+		},
+		{
+			"offsets": [
+				1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GREG RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gregory_assets",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "gregory",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		38,
+		138
+	],
+	"camera_position": [
+		-110,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

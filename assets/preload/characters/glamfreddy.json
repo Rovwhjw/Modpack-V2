@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FREDDY LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FREDDY DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FREDDY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FREDDY RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "FREDDY MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-56
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "FREDDY MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "FREDDY MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "FREDDY MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "FREDDY DIES",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "FREDDY DEADLOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "FREDDY DEAD CONFIRM",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "FREDDY IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glamfreddy_assets",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "glamfreddy",
+	"flip_x": true,
+	"healthbar_colors": [
+		38,
+		190,
+		215
+	],
+	"camera_position": [
+		-320,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

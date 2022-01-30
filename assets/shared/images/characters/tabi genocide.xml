@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MadTabiRework.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MadTabiDown0000" x="5" y="5" width="529" height="669" pivotX="0" pivotY="631.65" frameX="0" frameY="-3" frameWidth="531" frameHeight="670"/>
+	<SubTexture name="MadTabiIdle0000" x="544" y="5" width="506" height="726" pivotX="0" pivotY="686.6" frameX="0" frameY="0" frameWidth="520" frameHeight="729"/>
+	<SubTexture name="MadTabiLeft0000" x="5" y="741" width="720" height="694" pivotX="154.85" pivotY="702.8" frameX="0" frameY="-21" frameWidth="686" frameHeight="721"/>
+	<SubTexture name="MadTabiRight0000" x="1060" y="5" width="793" height="716" pivotX="78.8" pivotY="678.35" frameX="-2" frameY="-5" frameWidth="789" frameHeight="716"/>
+	<SubTexture name="MadTabiUp0000" x="1060" y="731" width="540" height="826" pivotX="41.15" pivotY="800.05" frameX="-4" frameY="0" frameWidth="549" frameHeight="831"/>
+</TextureAtlas>

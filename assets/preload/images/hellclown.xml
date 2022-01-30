@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hellclown.png">
+<SubTexture name="hellclown0000" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0001" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0002" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0003" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0004" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0005" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0006" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0007" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0008" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0009" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0010" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0011" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+<SubTexture name="hellclown0012" x="0" y="0" width="723" height="1155" frameX="0" frameY="0" frameWidth="723" frameHeight="1155" />
+</TextureAtlas>
